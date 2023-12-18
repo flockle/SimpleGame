@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+
+    align-items: center;
+}
+
+
+#con{
+    align-items: center;
+}
+
+#Scissors{
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#Paper{
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#Rock{
+    border-radius: 50px;
+    padding: 5px;
+}
